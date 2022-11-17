@@ -1,0 +1,11 @@
+Comandos básicos para utilizar o Git
+
+- git init (iniciar)
+- git add (mover arquivos)
+- git commit (criar commit)
+- ls (listar)
+- cd "nome da pasta" (entrar na pasta)
+- mkdir (criar diretório)
+- cd .. (voltar pasta anterior)
+
+Ao modificar uma pasta basta dar um git add .
